@@ -1,0 +1,231 @@
+ID,Type,Career,Year
+1,Education,Aerobics instructor,1984
+2,Education,Aerobics instructor,2009
+3,Education,Art teacher,2002
+4,Education,Dance teacher,2007
+5,Education,Elementary teacher,1985
+6,Education,Elementary teacher,1992
+7,Education,Elementary teacher,1995
+8,Education,Elementary teacher,1996
+9,Education,Elementary teacher,2006
+10,Education,Elementary teacher,2010
+11,Education,Football coach and player,2011
+12,Education,Gymnastics coach,2018
+13,Education,Sign language teacher,1999
+14,Education,Spanish language teacher,2001
+15,Education,Special education teacher,
+16,Education,Student teacher,1965
+17,Education,Swim teacher,2005
+18,Education,Swim teacher,2008
+19,Education,Yoga teacher,2011
+20,Education,Music teacher,2014
+21,Education,Music teacher,2019
+22,Education,Tennis coach,2017
+23,Education,Volleyball coach,2017
+24,Medicine,Dentist,1997
+25,Medicine,Eye doctor,2015
+26,Medicine,Doctor,1988
+27,Medicine,Pediatrician,1994
+28,Medicine,Pediatrician,2008
+29,Medicine,Nurse,1961
+30,Medicine,Surgeon,1973
+31,Medicine,Veterinarian,1985
+32,Medicine,Veterinarian,1996
+33,Medicine,Veterinarian,2008
+34,Medicine,Veterinarian,2009
+35,Military,Army Medic,1993
+36,Military,Paratrooper,2000
+37,Military,US Army Officer,1989
+38,Military,US Army Officer (Desert Storm),1992
+39,Military,US Air Force Pilot,1991
+40,Military,US Air Force Thunderbirds,1993
+41,Military,US Marine Corps Sergeant,1991
+42,Military,US Navy petty officer QM1,1991
+43,Political ,Chancellor (only in Germany),2013
+44,Political ,US President,2000
+45,Political ,Presidential candidate,1992
+46,Political ,Presidential candidate,2004
+47,Political ,Presidential candidate,2008
+48,Political ,Presidential candidate,2012
+49,Political ,Presidential candidate,2016
+50,Political ,UNICEF Ambassador,1989
+51,Political ,Vice Presidential candidate,2016
+52,Public Service,Firefighter,1995
+53,Public Service,Lifeguard (Baywatch),1994
+54,Public Service,Police officer,1993
+55,Public Service,Canadian Mountie (only in Canada),2005
+56,Public Service,Mail Carrier,1995
+57,Public Service,Judge,2019
+58,Public Service,Park Ranger,2019
+59,Science and engineering,Architect,2011
+60,Science and engineering,Astronaut,1965
+61,Science and engineering,Astronaut,1986
+62,Science and engineering,Astophysicist,2019
+63,Science and engineering,Computer engineer,2010
+64,Science and engineering,Geologist,
+65,Science and engineering,Game developer,2016
+66,Science and engineering,Robotics engineer,2018
+67,Science and engineering,Rocket engineer,2018
+68,Science and engineering,Paleontologist,1997
+69,Science and engineering,Polar marine biologist,2019
+70,Science and engineering,SeaWorld trainer,2009
+71,Transportation,Pilot,1990
+72,Transportation,Airline Pilot,1990
+73,Transportation,Flight Attendant,1961
+74,Transportation,Flight Attendant (American airlines),1973
+75,Transportation,Flight Attendant (American airlines),1974
+76,Transportation,Flight Attendant (American airlines),1975
+77,Transportation,Flight Attendant Flight Time),1989
+78,Transportation,NASCAR driver,1998
+79,Transportation,Race car driver,2009
+80,Transportation,Stewardess (American Airlines),1961
+81,Transportation,Stewardess (American Airlines),1962
+82,Transportation,Stewardess (American Airlines),1963
+83,Transportation,Stewardess (American Airlines),1964
+84,Transportation,Stewardess (Pan Am),1966
+85,Transportation,Tour guide (Toy Story 2 special edition),1999
+86,Arts,Ballerina,1961
+87,Arts,Ballerina,2006
+88,Arts,Designer,2008
+89,Beauty,Fashion model,1959
+90,Beauty,Fashion model,1960
+91,Beauty,Fashion model,1961
+92,Beauty,Fashion model,1962
+93,Beauty,Fashion model,1963
+94,Beauty,Fashion model,1964
+95,Beauty,Fashion model,1965
+96,Beauty,Fashion model,1966
+97,Beauty,Fashion model,1967
+98,Beauty,Fashion model,1968
+99,Beauty,Fashion model,1969
+100,Beauty,Fashion model,1970
+101,Beauty,Fashion model,1971
+102,Beauty,Fashion model,1972
+103,Beauty,Fashion model,1973
+104,Beauty,Fashion model,1974
+105,Beauty,Fashion model,1975
+106,Beauty,Fashion model,1976
+107,Beauty,Fashion model,1977
+108,Beauty,Fashion model,1978
+109,Beauty,Fashion model,1979
+110,Beauty,Fashion model,1980
+111,Beauty,Fashion model,1981
+112,Beauty,Fashion model,1982
+113,Beauty,Fashion model,1983
+114,Beauty,Fashion model,1984
+115,Beauty,Fashion model,1985
+116,Beauty,Fashion model,1986
+117,Beauty,Fashion model,1987
+118,Beauty,Fashion model,1988
+119,Beauty,Fashion model,1989
+120,Beauty,Fashion model,1990
+121,Beauty,Fashion model,1991
+122,Beauty,Fashion model,1992
+123,Beauty,Fashion model,1993
+124,Beauty,Fashion model,1994
+125,Beauty,Fashion model,1995
+126,Beauty,Fashion model,1996
+127,Beauty,Fashion model,1997
+128,Beauty,Fashion model,1998
+129,Beauty,Fashion model,1999
+130,Beauty,Fashion model,2000
+131,Beauty,Fashion model,2001
+132,Beauty,Fashion model,2002
+133,Beauty,Fashion model,2003
+134,Beauty,Fashion model,2004
+135,Beauty,Fashion model,2005
+136,Beauty,Fashion model,2006
+137,Beauty,Fashion model,2007
+138,Beauty,Fashion model,2008
+139,Beauty,Fashion model,2009
+140,Beauty,Fashion model,2010
+141,Beauty,Fashion model,2011
+142,Beauty,Fashion model,2012
+143,Beauty,Fashion model,2013
+144,Beauty,Fashion model,2014
+145,Beauty,Fashion model,2015
+146,Beauty,Fashion model,2016
+147,Beauty,Fashion model,2017
+148,Beauty,Fashion model,2018
+149,Beauty,Fashion model,2019
+150,Beauty,Fashion model,2020
+151,Arts,Film director,2015
+152,Beauty,Fashion designer,1960
+153,Beauty,Hairdresser,2008
+154,Beauty,Make-up artist,2007
+155,Arts,Movie actress,2010
+156,Arts,Movie actress,2011
+157,Arts,Movie star,1977
+158,Arts,Movie star,1985
+159,Arts,Movie star,1997
+160,Arts,Movie star,2001
+161,Arts,Movie star,2011
+162,Beauty,Pet stylist,2008
+163,Arts,Photojournalist,2019
+164,Arts,Photographer,
+165,Arts,Producer,2005
+166,Arts,Rapper,1992
+167,Arts,TV Chef,2008
+168,Arts,Rock Star,1986
+169,Arts,Rock Star,1998
+170,Arts,Singer,1961
+171,Arts,Singer,1986
+172,Arts,Singer,2009
+173,Business,Wedding stylist,2009
+174,Arts,Musician,2017
+175,Beauty,Hair stylist,2012
+176,Business,Chef,1996
+177,Business,Chef,2008
+178,Business,Business executive,1960
+179,Business,Business executive,1963
+180,Business,Business executive,1978
+181,Business,Business executive,1985
+182,Business,Business executive,1992
+183,Business,Business executive,1999
+184,Business,Owner of Willow's Cafe,2011
+185,Business,Secretary,2007
+186,Business,See's Candies cashier,2002
+187,Business,Waitress,2011
+188,Business,Resort greeter,2016
+189,Business,News reporter,2019
+190,Business,Chicken farmer,2019
+191,Business,Banker,
+192,Business,McDonald's cashier,1983
+193,Business,News anchor,2010
+194,Business,Soda fountain waitress (Coca Cola edition),1998
+195,Business,Babysitter,1963
+196,Business,Pet groomer,2019
+197,Business,Coffee shop worker,2020
+198,Business,Noodle bar worker,2019
+199,Business,Bee Keeper,2018
+200,Sport,Basketball player,2019
+201,Sport,Dancer,2018
+202,Sport,Football player,2012
+203,Sport,Football player,2017
+204,Sport,Olympic Athlete,1975
+205,Sport,Olympic Climber,2020
+206,Sport,Olympic karateka,2020
+207,Sport,Olympic softballer,2020
+208,Sport,Olympic skateboarder,2020
+209,Sport,Rythmic gymnast,2017
+210,Sport,Baseball Player,2017
+211,Sport,Gymnastic ,2012
+212,Sport,Gymnastic ,2015
+213,Sport,Tennis player,2012
+214,Sport,Tennis player,2017
+215,Sport,Tennis player,2020
+216,Sport,Skier,2017
+217,Sport,Snowboarder,2012
+218,Sport,Figure skater,2018
+219,Sport,Rock climber,2017
+220,Sport,Skateboarder,2017
+221,Sport,Martial artist,2017
+222,Sport,Ballroom dancer,2012
+223,Sport,Scuba diver,1994
+224,Sport,Olympic Skier,1975
+225,Sport,Major League Baseball player,1998
+226,Sport,Cheerleader,1973
+227,Sport,Cheerleader,2006
+228,Sport,Cheerleader (Dallas Cowboys edition),2008
+229,Sport,Golfer,2018
+230,Sport,Boxer,2019
