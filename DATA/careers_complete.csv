@@ -1,0 +1,269 @@
+Type,Career,Year
+Education,Aerobics instructor,1984.0
+Education,Aerobics instructor,2009.0
+Education,Art teacher,2002.0
+Education,Dance teacher,2007.0
+Education,Elementary teacher,1985.0
+Education,Elementary teacher,1992.0
+Education,Elementary teacher,1995.0
+Education,Elementary teacher,1996.0
+Education,Elementary teacher,2006.0
+Education,Elementary teacher,2010.0
+Sport,Football coach and player,2011.0
+Sport,Gymnastics coach,2018.0
+Education,Sign language teacher,1999.0
+Education,Spanish language teacher,2001.0
+Education,Special education teacher,2020.0
+Education,Student teacher,1965.0
+Education,Swim teacher,2005.0
+Education,Swim teacher,2008.0
+Education,Yoga teacher,2011.0
+Education,Music teacher,2014.0
+Education,Music teacher,2019.0
+Education,Tennis coach,2017.0
+Education,Volleyball coach,2017.0
+Medicine,Dentist,1997.0
+Medicine,Eye doctor,2015.0
+Medicine,Doctor,1988.0
+Medicine,Pediatrician,1994.0
+Medicine,Pediatrician,2008.0
+Medicine,Nurse,1961.0
+Medicine,Surgeon,1973.0
+Medicine,Veterinarian,1985.0
+Medicine,Veterinarian,1996.0
+Medicine,Veterinarian,2008.0
+Medicine,Veterinarian,2009.0
+Military,Army Medic,1993.0
+Military,Paratrooper,2000.0
+Military,US Army Officer,1989.0
+Military,US Army Officer (Desert Storm),1992.0
+Military,US Air Force Pilot,1991.0
+Military,US Air Force Thunderbirds,1993.0
+Military,US Marine Corps Sergeant,1991.0
+Military,US Navy petty officer QM1,1991.0
+Political ,Chancellor (only in Germany),2013.0
+Public Service,US President,2000.0
+Public Service,Presidential candidate,1992.0
+Public Service,Presidential candidate,2004.0
+Public Service,Presidential candidate,2008.0
+Public Service,Presidential candidate,2012.0
+Public Service,Presidential candidate,2016.0
+Political ,UNICEF Ambassador,1989.0
+Public Service,Vice Presidential candidate,2016.0
+Public Service,Firefighter,1995.0
+Transportation,Lifeguard (Baywatch),1994.0
+Public Service,Police officer,1993.0
+Public Service,Canadian Mountie (only in Canada),2005.0
+Public Service,Mail Carrier,1995.0
+Public Service,Judge,2019.0
+Public Service,Park Ranger,2019.0
+Science and engineering,Architect,2011.0
+Science and engineering,Astronaut,1965.0
+Science and engineering,Astronaut,1986.0
+Science and engineering,Astophysicist,2019.0
+Science and engineering,Computer engineer,2010.0
+Science and engineering,Geologist,2021.0
+Science and engineering,Game developer,2016.0
+Science and engineering,Robotics engineer,2018.0
+Science and engineering,Rocket engineer,2018.0
+Science and engineering,Paleontologist,1997.0
+Science and engineering,Polar marine biologist,2019.0
+Science and engineering,SeaWorld trainer,2009.0
+Transportation,Pilot,1990.0
+Transportation,Airline Pilot,1990.0
+Transportation,Flight Attendant,1961.0
+Transportation,Flight Attendant (American airlines),1973.0
+Transportation,Flight Attendant (American airlines),1974.0
+Transportation,Flight Attendant (American airlines),1975.0
+Transportation,Flight Attendant Flight Time),1989.0
+Transportation,NASCAR driver,1998.0
+Transportation,Race car driver,2009.0
+Transportation,Stewardess (American Airlines),1961.0
+Transportation,Stewardess (American Airlines),1962.0
+Transportation,Stewardess (American Airlines),1963.0
+Transportation,Stewardess (American Airlines),1964.0
+Transportation,Stewardess (Pan Am),1966.0
+Transportation,Tour guide (Toy Story 2 special edition),1999.0
+Arts,Ballerina,1961.0
+Arts,Ballerina,2006.0
+Arts,Designer,2008.0
+Beauty,Fashion model,1959.0
+Beauty,Fashion model,1960.0
+Beauty,Fashion model,1961.0
+Beauty,Fashion model,1962.0
+Beauty,Fashion model,1963.0
+Beauty,Fashion model,1964.0
+Beauty,Fashion model,1965.0
+Beauty,Fashion model,1966.0
+Beauty,Fashion model,1967.0
+Beauty,Fashion model,1968.0
+Beauty,Fashion model,1969.0
+Beauty,Fashion model,1970.0
+Beauty,Fashion model,1971.0
+Beauty,Fashion model,1972.0
+Beauty,Fashion model,1973.0
+Beauty,Fashion model,1974.0
+Beauty,Fashion model,1975.0
+Beauty,Fashion model,1976.0
+Beauty,Fashion model,1977.0
+Beauty,Fashion model,1978.0
+Beauty,Fashion model,1979.0
+Beauty,Fashion model,1980.0
+Beauty,Fashion model,1981.0
+Beauty,Fashion model,1982.0
+Beauty,Fashion model,1983.0
+Beauty,Fashion model,1984.0
+Beauty,Fashion model,1985.0
+Beauty,Fashion model,1986.0
+Beauty,Fashion model,1987.0
+Beauty,Fashion model,1988.0
+Beauty,Fashion model,1989.0
+Beauty,Fashion model,1990.0
+Beauty,Fashion model,1991.0
+Beauty,Fashion model,1992.0
+Beauty,Fashion model,1993.0
+Beauty,Fashion model,1994.0
+Beauty,Fashion model,1995.0
+Beauty,Fashion model,1996.0
+Beauty,Fashion model,1997.0
+Beauty,Fashion model,1998.0
+Beauty,Fashion model,1999.0
+Beauty,Fashion model,2000.0
+Beauty,Fashion model,2001.0
+Beauty,Fashion model,2002.0
+Beauty,Fashion model,2003.0
+Beauty,Fashion model,2004.0
+Beauty,Fashion model,2005.0
+Beauty,Fashion model,2006.0
+Beauty,Fashion model,2007.0
+Beauty,Fashion model,2008.0
+Beauty,Fashion model,2009.0
+Beauty,Fashion model,2010.0
+Beauty,Fashion model,2011.0
+Beauty,Fashion model,2012.0
+Beauty,Fashion model,2013.0
+Beauty,Fashion model,2014.0
+Beauty,Fashion model,2015.0
+Beauty,Fashion model,2016.0
+Beauty,Fashion model,2017.0
+Beauty,Fashion model,2018.0
+Beauty,Fashion model,2019.0
+Beauty,Fashion model,2020.0
+Arts,Film director,2015.0
+Beauty,Fashion designer,1960.0
+Beauty,Hairdresser,2008.0
+Beauty,Make-up artist,2007.0
+Arts,Movie actress,2010.0
+Arts,Movie actress,2011.0
+Arts,Movie star,1977.0
+Arts,Movie star,1985.0
+Arts,Movie star,1997.0
+Arts,Movie star,2001.0
+Arts,Movie star,2011.0
+Beauty,Pet stylist,2008.0
+Arts,Photojournalist,2019.0
+Arts,Photographer,2014.0
+Arts,Producer,2005.0
+Arts,Rapper,1992.0
+restaurant_kitchen,TV Chef,2008.0
+Arts,Rock Star,1986.0
+Arts,Rock Star,1998.0
+Arts,Singer,1961.0
+Arts,Singer,1986.0
+Arts,Singer,2009.0
+Business,Wedding stylist,2009.0
+Arts,Musician,2017.0
+Beauty,Hair stylist,2012.0
+restaurant_kitchen,Chef,1996.0
+restaurant_kitchen,Chef,2008.0
+Business,Business executive,1960.0
+Business,Business executive,1963.0
+Business,Business executive,1978.0
+Business,Business executive,1985.0
+Business,Business executive,1992.0
+Business,Business executive,1999.0
+Business,Owner of Willow's Cafe,2011.0
+Public Service,Secretary,2007.0
+retail_customer,See's Candies cashier,2002.0
+retail_customer,Waitress,2011.0
+retail_customer,Resort greeter,2016.0
+Media,News reporter,2019.0
+farming,Chicken farmer,2019.0
+Business,Banker,2019.0
+retail_customer,McDonald's cashier,1983.0
+Media,News anchor,2010.0
+retail_customer,Soda fountain waitress (Coca Cola edition),1998.0
+Education,Babysitter,1963.0
+animal_care,Pet groomer,2019.0
+restaurant_kitchen,Coffee shop worker,2020.0
+restaurant_kitchen,Noodle bar worker,2019.0
+farming,Bee Keeper,2018.0
+Sport,Basketball player,2019.0
+Sport,Dancer,2018.0
+Sport,Football player,2012.0
+Sport,Football player,2017.0
+Sport,Olympic Athlete,1975.0
+Sport,Olympic Climber,2020.0
+Sport,Olympic karateka,2020.0
+Sport,Olympic softballer,2020.0
+Sport,Olympic skateboarder,2020.0
+Sport,Rythmic gymnast,2017.0
+Sport,Baseball Player,2017.0
+Sport,Gymnastic ,2012.0
+Sport,Gymnastic ,2015.0
+Sport,Tennis player,2012.0
+Sport,Tennis player,2017.0
+Sport,Tennis player,2020.0
+Sport,Skier,2017.0
+Sport,Snowboarder,2012.0
+Sport,Figure skater,2018.0
+Sport,Rock climber,2017.0
+Sport,Skateboarder,2017.0
+Sport,Martial artist,2017.0
+Sport,Ballroom dancer,2012.0
+Sport,Scuba diver,1994.0
+Sport,Olympic Skier,1975.0
+Sport,Major League Baseball player,1998.0
+Sport,Cheerleader,1973.0
+Sport,Cheerleader,2006.0
+Sport,Cheerleader (Dallas Cowboys edition),2008.0
+Sport,Golfer,2018.0
+Sport,Boxer,2019.0
+Medicine,Registered Nurse,2009.0
+Arts,School Photographer,1998.0
+Education,Student Teacher,2009.0
+Education,Teacher,1995.0
+Public Service,President 2000,2000.0
+Sport,Gymnast,1993.0
+Transportation,Stewardess,2006.0
+Science and engineering,Computer Engineer,2010.0
+Science and engineering,Computer Engineer,2010.0
+Business,Entrepreneur,2014.0
+Business,Entrepreneur,2014.0
+Sport,Olympic Gymnast,1996.0
+Public Service,Firefighter,2015.0
+animal_care,Zookeeper,2012.0
+Medicine,Baby Doctor,2003.0
+Medicine,Baby Doctor,2003.0
+Transportation, Flight Attendant,2012.0
+Science and engineering,Mars Explorer,2013.0
+restaurant_kitchen,Dessert Chef,2013.0
+Medicine,Newborn Baby Doctor,2009.0
+Arts,Music Star,2007.0
+Sport,Gymnastic Champion,2012.0
+Transportation,Travel Agent,1986.0
+restaurant_kitchen,Sweet Chef,2013.0
+Arts,Rock Star,2013.0
+restaurant_kitchen,Pizza Chef,2010.0
+Science and engineering,Mars Explorer ,2013.0
+Arts,Magician,2013.0
+Education,Baby Sitter,2013.0
+Education,Nursery School Teacher,2012.0
+animal_care,Dolphin Trainer,2013.0
+Sport,Gymnastics,2015.0
+Sport,Tennis Player,2015.0
+Education,Teacher,2015.0
+Sport,Soccer Player,2015.0
+Transportation,Lifeguard,2015.0
+Medicine,Dentist,2015.0
+Medicine,Dentist,2016.0
