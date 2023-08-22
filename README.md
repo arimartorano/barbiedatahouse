@@ -4,7 +4,7 @@ Barbie was created by entrepreneur Ruth Handler and manufactured by American toy
 While we understand the Barbie craze; it is important to note that the impact of Barbie’s message can vary based on individual experiences and cultural context. 
 
 
-#Building Barbie Data House
+# Barbie Data House Build
 
 
 
