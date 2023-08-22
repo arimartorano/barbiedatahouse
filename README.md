@@ -19,7 +19,7 @@ Recognizing the significant impact that Barbies have on the developmental years 
 
 
 
-# Building Barbie 
+# Methodolgy 
 After weeks of research we decided it’d be best to webscrape Barbie data from a Barbie archive (https://www.barbiedb.com/). We utilized selenium and bs4 to iterate through a for loop in order to collect all Barbie data from the site.  The  webscrapping went well and we were able to see images of the dolls in the columns.
 
 
