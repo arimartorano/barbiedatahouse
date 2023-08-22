@@ -8,3 +8,4 @@ While we understand the Barbie craze; it is important to note that the impact of
 
 
 
+
