@@ -1,4 +1,4 @@
 # barbiedatahouse
-<p style="color:#E0218A">ALL THINGS BARB! 
-In honor of the Barbie movie and our love for data, engineered a fun and informative analysis on Ms. Barbara Millicent Roberts and her world. We webscrapped Barbie data from https://www.barbiedb.com website that contains every Barbie sold, the year, the price (low, avergage, high,) and the description. 
-With that data, a deeper analysis, and real world data, we </p>
+In honor of the theatrical release of Barbie and our love for data; we decided to engineer a fun yet, informative analysis on Ms. Barbara Millcent Roberts and her world! 
+Barbie was created by entrepreneur Ruth Handler and manufactured by American toy company Mattel. Barbie made her debut in 1959. Barbie has evolved over the years and its message to little girls has shifted as well. Historically Barbie has been criticized for many opinionated reasons. However, Mattel has made efforts to address these concerns by promoting diversity, inclusion, empowerment, social values,and representation. 
+While we understand the Barbie craze; it is important to note that the impact of Barbie’s message can vary based on individual experiences and cultural context. 
