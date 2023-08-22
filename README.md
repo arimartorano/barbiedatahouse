@@ -5,7 +5,12 @@ While we understand the Barbie craze; it is important to note that the impact of
 
 
 # Building Barbie 
-After weeks of research we decided it’d be best to webscrape Barbie data from a Barbie archive (https://www.barbiedb.com/) that contains every Barbie sold, the year, and pricing options. We utilized selenium and bs4 to iterate through a for loop in order to collect all Barbie data from the site. Once complete, we were able to 
+After weeks of research we decided it’d be best to webscrape Barbie data from a Barbie archive (https://www.barbiedb.com/) that contains every Barbie sold, the year, and pricing options. We utilized selenium and bs4 to iterate through a for loop in order to collect all Barbie data from the site. Once complete  the data had to be cleaned. The  webscrapping went well and we were able to add images of the dolls into the columns.
+
+
+
+<img width="1128" alt="Screenshot 2023-08-22 at 6 18 51 PM" src="https://github.com/arimartorano/barbiedatahouse/assets/113561746/a4808fa9-ab03-420b-b868-2309a1e35b4c">
+
 
 
 
