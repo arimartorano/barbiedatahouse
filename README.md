@@ -38,7 +38,7 @@ After weeks of research we decided it’d be best to webscrape Barbie data from 
 Once the Barbie CSV file was clean and we changed some data types using python functions and libraries we saved the new clean data.
 We were now able to begin EDA and as EDA took it's course our fascination for Barbie started to grow more in real time. We wanted to explore Barbie's similarities and differences with the real world. 
 We found a dataset on Barbie careers and combined it with some career Barbies from the scraped data. 
-We've decided to analyze careers in the Barbie World and women's careers in the real world.
+We've decided to analyze careers in the Barbie World and women's careers in the real world. Lastly, using the information we gained from the EDA we made a 2 Tableau visualizations to display insight from the data.
 
 
 # Visuals & Findings
@@ -68,4 +68,8 @@ We've decided to analyze careers in the Barbie World and women's careers in the 
 
 <img width="620" alt="Screenshot 2023-08-23 at 11 27 19 AM" src="https://github.com/arimartorano/barbiedatahouse/assets/113561746/00f3f857-bea8-4ad1-ac03-d3a09c1c7acb">
 
+![The-average-representation-of-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/a0562910-ce78-4c56-a83c-6fd6594a2618)
+
+
+![In-general-women-make-87-of-m-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/761c4167-f881-4b9d-952a-d790883ac067)
 
