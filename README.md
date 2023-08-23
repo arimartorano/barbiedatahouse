@@ -73,3 +73,5 @@ We've decided to analyze careers in the Barbie World and women's careers in the 
 
 ![In-general-women-make-87-of-m-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/761c4167-f881-4b9d-952a-d790883ac067)
 
+![Barbie-Tableau-Dashboard-s-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/cbeb861f-56a4-467c-8075-f4dded77cf31)
+
