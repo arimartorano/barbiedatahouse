@@ -4,6 +4,12 @@ Barbie was created by entrepreneur Ruth Handler and manufactured by American toy
 While we understand the Barbie craze; it is important to note that the impact of Barbie’s message can vary based on individual experiences and cultural context. 
 
 
+![IMG_7945](https://github.com/arimartorano/barbiedatahouse/assets/113561746/31658bb9-b5dd-4839-81e1-c8bca9b8baf3)
+
+
+
+
+
 # Objective
 
 Analyze careers in both Barbie's world and the real world, aiming to highlight the representation of women across various professional fields. Utilize career Barbies to emphasize sectors that still lack adequate female representation, with the goal of introducing a wider array of professions in the Barbie universe.
