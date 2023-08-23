@@ -45,6 +45,11 @@ We've decided to analyze careers in the Barbie World and women's careers in the 
 
 
 
+<img width="934" alt="Screenshot 2023-08-23 at 10 49 01 AM" src="https://github.com/arimartorano/barbiedatahouse/assets/113561746/21e870eb-5e12-43bc-82ee-dafb5ff71350">
+
+
+![As-we-can-see-from-the-graph-b-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/f065912f-3f9d-495d-8a3c-924c51c3cfab)
+
 
 
 
