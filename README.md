@@ -75,3 +75,14 @@ We've decided to analyze careers in the Barbie World and women's careers in the 
 
 ![Barbie-Tableau-Dashboard-s-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/cbeb861f-56a4-467c-8075-f4dded77cf31)
 
+
+![Barbie Datahouse-](https://github.com/arimartorano/barbiedatahouse/assets/113561746/48cb1372-ed5d-40f9-9ba4-99af629fc18e)
+
+https://public.tableau.com/app/profile/ari.de.la.mar/viz/BARBDATAHOUSE/BarbieDatahouse
+
+
+![Women Careers in Barbie World and Real World](https://github.com/arimartorano/barbiedatahouse/assets/113561746/da02f540-4ceb-4b7a-bf79-abb619fe4a8a)
+
+https://public.tableau.com/app/profile/anastasiya.ayala/viz/BarbieCareersRealWorldCareers/Dashboard1
+
+
