@@ -20,7 +20,7 @@ Recognizing the significant impact that Barbies have on the developmental years 
 
 
 # Methodolgy 
-After weeks of research we decided it’d be best to webscrape Barbie data from a Barbie archive (https://www.barbiedb.com/). Using python functions and libraries we were able to utilize selenium and bs4 to iterate through a for loop in order to collect all Barbie data from the site.  The  webscrapping was successful and we were able to see images of the dolls in the columns.
+After weeks of research we decided it’d be best to webscrape Barbie data from a Barbie archive (https://www.barbiedb.com/). We were able to utilize selenium and bs4 to iterate through a for loop in order to collect all Barbie data from the site.  The  webscrapping was successful and we were able to see images of the dolls in the columns.
 
 
 
@@ -29,4 +29,16 @@ After weeks of research we decided it’d be best to webscrape Barbie data from 
 
 
 
-Once the
+Once the Barbie CSV file was clean and we changed some data types using python functions and libraries we saved the new clean data.
+We were now able to begin EDA and as EDA took it's course our fascination for Barbie started to grow more in real time. We wanted to explore Barbie's similarities and differences with the real world. 
+We found a dataset on Barbie careers and combined it with some career Barbies from the scraped data. 
+We've decided to analyze careers in the Barbie World and women's careers in the real world.
+
+
+# Visuals & Findings
+
+
+
+
+
+
