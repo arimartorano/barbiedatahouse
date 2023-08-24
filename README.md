@@ -91,7 +91,7 @@ https://public.tableau.com/app/profile/anastasiya.ayala/viz/BarbieCareersRealWor
 
 # Bar-Bye!
 
-For the time being, Barbie women are much more successful than real life women and we must come together (like the movie) and bridge the Real World- Barbie World gap!
+For the time being, Barbie's are much more successful than real life women and we must come together (like the movie) and bridge the Real World- Barbie World gap when it comes to women's representation in the work place. Until next time barbs, --- bar-bye! 
 
 ![IMG_7964](https://github.com/arimartorano/barbiedatahouse/assets/113561746/6375beaa-8a56-40dc-b768-185d65ccc03c)
 
