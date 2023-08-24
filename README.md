@@ -73,6 +73,8 @@ We've decided to analyze careers in the Barbie World and women's careers in the 
 
 ![In-general-women-make-87-of-m-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/761c4167-f881-4b9d-952a-d790883ac067)
 
+Confirming the motto of "Barbie can be anything," women can be anything. However, when it comes to women, there are much bigger struggles in the real world than in Barbie World.
+
 ![Barbie-Tableau-Dashboard-s-8-23-2023](https://github.com/arimartorano/barbiedatahouse/assets/113561746/cbeb861f-56a4-467c-8075-f4dded77cf31)
 
 
@@ -84,5 +86,13 @@ https://public.tableau.com/app/profile/ari.de.la.mar/viz/BARBDATAHOUSE/BarbieDat
 ![Women Careers in Barbie World and Real World](https://github.com/arimartorano/barbiedatahouse/assets/113561746/da02f540-4ceb-4b7a-bf79-abb619fe4a8a)
 
 https://public.tableau.com/app/profile/anastasiya.ayala/viz/BarbieCareersRealWorldCareers/Dashboard1
+
+
+
+# Bar-Bye!
+
+For the time being, Barbie women are much more successful than real life women and we must come together (like the movie) and bridge the Real World- Barbie World gap!
+
+![IMG_7964](https://github.com/arimartorano/barbiedatahouse/assets/113561746/6375beaa-8a56-40dc-b768-185d65ccc03c)
 
 
